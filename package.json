@@ -1,0 +1,9 @@
+{
+  "name": "infobox",
+  "version": "1.0.0",
+  "keywords": ["infobox", "google", "maps"],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
